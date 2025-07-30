@@ -207,9 +207,7 @@ We welcome contributions! Please follow these steps:
    
 7. *Open a Pull Request*
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
